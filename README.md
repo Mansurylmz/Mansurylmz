@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mansur Yılmaz</h1>
 
 
-🌱 I'm currently studying computer engineering and I'm still improving myself.
+🌱 I'm currently studying computer engineering and I'm still improving myself
 
-🔮 I develop projects with HTML5, CSS3 & JAVASCRİPT.
+🔮 I develop projects with HTML5, CSS3 & JAVASCRİPT
 
 
 🤭 I love learning new things and software
